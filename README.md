@@ -33,5 +33,10 @@ Puedo realizar APIs complejas con Django REST Framework, paginas funcionales con
 
 🐙 GitHub
 
-🐋 Docker
+🐋 Docker >> Docker-Compose
 
+🔄 Scrum >> Jira Software
+
+### Contacto:
+- Email: jaimovichandres@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andres-jaimovich/
