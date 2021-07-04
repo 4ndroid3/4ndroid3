@@ -23,19 +23,19 @@ Puedo realizar APIs complejas con Django REST Framework, paginas funcionales con
 
 # Tecnologías:
 
-🐍 Python >> Django { Django REST, Celery, RabbitMQ ,Redis , Django ORM, Middlewares, Signals }
+### 🐍 Python >> Django { Django REST, Celery, RabbitMQ ,Redis , Django ORM, Middlewares, Signals }
 
-☕ JavaScript >> HTML >> CSS >>> JQuery
+### ☕ JavaScript >> HTML >> CSS >>> JQuery
 
-📜 SQL >> SQLite >> Postgres >> MySQL
+### 📜 SQL >> SQLite >> Postgres >> MySQL
 
-🖥️ OS >> Linux >> Windows
+### 🖥️ OS >> Linux >> Windows
 
-🐙 GitHub
+### 🐙 GitHub
 
-🐋 Docker >> Docker-Compose
+### 🐋 Docker >> Docker-Compose
 
-🔄 Scrum >> Jira Software
+### 🔄 Scrum >> Jira Software
 
 # Contacto:
 - Email: jaimovichandres@gmail.com
