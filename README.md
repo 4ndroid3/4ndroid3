@@ -40,3 +40,7 @@ Puedo realizar APIs complejas con Django REST Framework, paginas funcionales con
 # Contacto:
 - Email: jaimovichandres@gmail.com
 - LinkedIn: https://www.linkedin.com/in/andres-jaimovich/
+
+# Proyectos Destacados
+
+
