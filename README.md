@@ -1,4 +1,4 @@
-# **¡Hola visitante! **👋
+# ¡Hola visitante! 👋
 > Soy desarrollador Back-End Jr. Programando en Python desde hace 2 años, y desde hace 1 año orientandome al desarrollo web especialmente con el Framework Django y sus librerias.
 Soy estudiante en la tecnicatura Superior en programación, sumando mi experiencia durante 10 años como técnico eléctromecanico, me siento preparado para afrontar nuevos desafíos, orientados al mundo de IT el cual es mi verdadera pasión.
 
